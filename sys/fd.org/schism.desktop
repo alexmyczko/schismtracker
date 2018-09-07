@@ -10,7 +10,7 @@ Exec=schismtracker %f
 Type=Application
 Icon=schism-icon-128.png
 Categories=GNOME;Application;AudioVideo;Audio;Video;
-MimeType=audio/x-mod
+MimeType=audio/x-mod;audio/mod;audio/s3m;audio/it;
 X-Desktop-File-Install-Version=0.10
 
 [Desktop Action Play]
